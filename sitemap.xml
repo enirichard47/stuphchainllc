@@ -10,4 +10,24 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://stuphchain.com/contact.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    <url>
+        <loc>https://stuphchain.com/privacy.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    <url>
+        <loc>https://stuphchain.com/terms.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    <url>
+        <loc>https://stuphchain.com/refunds.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
 </urlset>
